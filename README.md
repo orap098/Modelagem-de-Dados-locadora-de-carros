@@ -48,5 +48,5 @@ Nessa etapa foi feita uma análise das tabelas, a fim de organizar os dados dent
 Nessa etapa foi feito descrição, relações de todas tabelas do banco de dados.
 ![image](https://github.com/orap098/Modelagem-de-Dados-locadora-de-carros/assets/75902289/8e8ff253-cd4b-4969-b460-f44a0a9d5e75)
 
-## IMPLEMENTAÇÃO DO MODELO FÍSICO
+
 
